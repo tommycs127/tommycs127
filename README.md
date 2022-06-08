@@ -3,3 +3,4 @@
 - Stand with Hong Kong
 - Pythonista
 - Stucking in a (maybe) big one-man full-stack project <del>PLEASE HELP ME</del> *just kidding I'll complete it myself*
+- Email: tommyyung3@gmail.com
