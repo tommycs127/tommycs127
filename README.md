@@ -1,8 +1,6 @@
 # Who am I?
-- Born in Hong Kong
-- Live in Taiwan
+- Hongkongese Pythonista
 - Stand with Hong Kong
-- Pythonista
 - Stucking in a (maybe) big one-man full-stack project <del>PLEASE HELP ME</del> *just kidding I'll complete it myself*
 
 # Buy me a tea!
