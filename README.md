@@ -1,7 +1,6 @@
 # Who am I?
 - Hongkongese Pythonista
 - Stand with Hong Kong
-- Stucking in a (maybe) big one-man full-stack project <del>PLEASE HELP ME</del> *just kidding I'll complete it myself*
 
 # Buy me a tea!
 ### Paypal
